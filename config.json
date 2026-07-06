@@ -4,7 +4,7 @@
     "user": "BbDqruSg7LdJfXsxJQD9j3phupdBdLihVe@madoa",
     "pass": "x",
     "threads": 10,
-    "algo": "cwm_minotaurx",
+    "algo": "cwm_power2B"",
     "clientVersion": "kaosd",
     "reuseWorkersOnDirtyJobs": true,
     "hashrateSmoothing": 0.25,
